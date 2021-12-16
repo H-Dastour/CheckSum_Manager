@@ -1,10 +1,13 @@
 /**
   ******************************************************************************
   * @file    CheckSum_Manager.cpp
-  * @author  H.Dastour
+  * @author  Hadi Dastour
+  *	@version 1.0.0		 
   * @brief   CheckSum Manager class.
   *          This file provides firmware functions to manage checksum value of 
   *          an array data.
+  * @support Email: Hadi.Dastoor@gmail.com		
+  *			 Github: https://github.com/H-Dastour
   ******************************************************************************
 **/
 

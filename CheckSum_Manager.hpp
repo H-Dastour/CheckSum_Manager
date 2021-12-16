@@ -2,8 +2,11 @@
 /**
   ******************************************************************************
   * @file    CheckSum_Manager.hpp
-  * @author  H.Dastour
+  * @author  Hadi Dastour
+  *	@version 1.0.0	
   * @brief   Header file of CheckSum_Manager class.
+  * @support Email: Hadi.Dastoor@gmail.com		
+  *			 Github: https://github.com/H-Dastour
   ******************************************************************************
 **/
 
